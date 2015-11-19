@@ -1,2 +1,2 @@
 # hello-world
-short description
+short description with **bold* or *italic* text
